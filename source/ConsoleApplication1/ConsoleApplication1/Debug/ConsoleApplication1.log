@@ -1,0 +1,4 @@
+﻿  ex06-01.c
+d:\backup1\source\consoleapplication1\consoleapplication1\ex06-01.c(18): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  ConsoleApplication1.vcxproj -> D:\backup1\source\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\backup1\source\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

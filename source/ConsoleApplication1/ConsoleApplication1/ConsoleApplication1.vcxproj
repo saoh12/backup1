@@ -19,9 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ex-02-01.c" />
-    <ClCompile Include="ex-02-02.c" />
-    <ClCompile Include="ex-02-03.c" />
+    <ClCompile Include="ex06-01.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{E9ACB199-5F8F-469B-B669-22816CF4D016}</ProjectGuid>
